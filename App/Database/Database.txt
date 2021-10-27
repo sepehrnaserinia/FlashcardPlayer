@@ -1,0 +1,8 @@
+Database:Common-I
+Audio:true
+Shuffle:true
+AlwaysOnTop:true
+SpeedFront:5
+SpeedBack:15
+FontSize:120
+HorizontalSize:2
